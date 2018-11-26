@@ -22,5 +22,4 @@ pip install -U imbalanced-learn \
 pip install lifetimes \
 pip install seaborn \
 
-
 Note: Keep all the data files, code and the model files in the same location
