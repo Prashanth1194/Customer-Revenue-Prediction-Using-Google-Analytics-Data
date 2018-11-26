@@ -1,7 +1,6 @@
 Data: \
 train-flattened - Google Analytics transaction level data of Google Merchandise Store \
-Data Available at : https://www.kaggle.com/c/ga-customer-revenue-prediction/data
-
+Data Available at : https://drive.google.com/drive/folders/10abk6uLSt4OQEWUWwcbI4GMQrzMnW5SE
 Models files: \
 phase1_glm.sav - Logistic Regression model from Phase 1 \
 phase1_rf.sav - Random Forest Classifier model from Phase 1 \
