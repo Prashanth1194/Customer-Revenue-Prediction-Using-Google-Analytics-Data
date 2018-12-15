@@ -3,7 +3,7 @@
 ### Data: \
 Google Analytics transaction level data of Google Merchandise Store \
 Data available at : https://drive.google.com/drive/folders/10abk6uLSt4OQEWUWwcbI4GMQrzMnW5SE \
-\
+
 ### Models files: \
 phase1_glm.sav - Logistic Regression model from Phase 1 \
 phase1_rf.sav - Random Forest Classifier model from Phase 1 \
