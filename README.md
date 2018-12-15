@@ -2,7 +2,7 @@
 
 ### Data: 
 Google Analytics transaction level data of Google Merchandise Store \
-Data available at : https://drive.google.com/drive/folders/10abk6uLSt4OQEWUWwcbI4GMQrzMnW5SE \
+Data available at : https://drive.google.com/drive/folders/10abk6uLSt4OQEWUWwcbI4GMQrzMnW5SE
 
 ### Models files: 
 phase1_glm.sav - Logistic Regression model from Phase 1 \
@@ -20,7 +20,7 @@ Contains the code to be executed to obtain the required results
 Contains the project report and the presentation
 
 ### Libraries to be installed 
-Apart from pre-installed packages such as pandas,numpy,sklearn,matplotlib,pickle,datetime and warnings: \ 
+Apart from pre-installed packages such as pandas,numpy,sklearn,matplotlib,pickle,datetime and warnings:
 pip install -U imbalanced-learn \
 pip install lifetimes \
 pip install seaborn
